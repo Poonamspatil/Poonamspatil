@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poonamspatil
 - 👀 Interested in full-time opportunities in Data Science
 - 🌱 Currently learning deep learning specialization on Coursera
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💞️ I’m looking to collaborate on Data Science/ Machine Learning/ Data Analytics projects
 - 📫 poonam.s.patil24@gmail.com 
 
 <!---
